@@ -1,25 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sergi%20Novell%20Valls&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18" alt="Header" />
-
-<a href="https://github.com/thenuvei">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Second-year+IT+Systems+and+Networks+student;Training+in+systems+and+network+administration;Focused+on+cybersecurity;Next+step:+DAM+and+remote+work" alt="Animated introduction" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17191c,50:262b30,100:343a40&height=220&section=header&text=Sergi%20Novell%20Valls&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18" alt="Header" />
 
 <br/><br/>
 
-![Location](https://img.shields.io/badge/Teià%2C%20Catalonia-0f2027?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF)
-![Studies](https://img.shields.io/badge/2nd%20year%20SMX-203a43?style=for-the-badge&logo=academia&logoColor=2DD4BF)
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity-2c5364?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Studies](https://img.shields.io/badge/2nd%20year%20SMX-262b30?style=for-the-badge&logo=academia&logoColor=D0A04A)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-343a40?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 <br/>
 
-[![About me](https://img.shields.io/badge/About%20me-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#about-me)
-[![Education](https://img.shields.io/badge/Education-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#education)
-[![Skills](https://img.shields.io/badge/Skills-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#skills)
-[![Projects](https://img.shields.io/badge/Projects-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#projects)
-[![Goals](https://img.shields.io/badge/Goals-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#goals)
-[![Contact](https://img.shields.io/badge/Contact-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#contact)
+<a href="#about-me" style="color:#D0A04A;text-decoration:none">About me</a> &nbsp;·&nbsp;
+<a href="#education" style="color:#D0A04A;text-decoration:none">Education</a> &nbsp;·&nbsp;
+<a href="#skills" style="color:#D0A04A;text-decoration:none">Skills</a> &nbsp;·&nbsp;
+<a href="#projects" style="color:#D0A04A;text-decoration:none">Projects</a> &nbsp;·&nbsp;
+<a href="#goals" style="color:#D0A04A;text-decoration:none">Goals</a> &nbsp;·&nbsp;
+<a href="#contact" style="color:#D0A04A;text-decoration:none">Contact</a>
 
 </div>
 
@@ -27,27 +22,21 @@
 <table width="100%">
 <tr>
 <th colspan="2" align="left">
-<img src="https://api.iconify.design/lucide:user.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;About me
+<img src="https://api.iconify.design/lucide:user.svg?color=%23D0A04A" height="20" align="top" alt=""> &nbsp;About me
 </th>
 </tr>
 <tr>
 <td width="60%" valign="top">
 
-I'm 17 years old and I'm from Teià. I'm a **hard-working, curious and outgoing** person.
+I'm 17 years old. I'm a **hard-working, curious and outgoing** person.
 
 I chose SMX because I wanted to understand IT **from the inside**, not just the part you see on the screen: how systems work, how they communicate with each other and how they are protected.
 
 </td>
 <td width="40%" valign="top">
 
-**Location**<br/>
-Teià, Catalonia
-
 **Studies**<br/>
 CFGM SMX, 2nd year
-
-**School**<br/>
-Escola Pia Santa Anna, Mataró
 
 **Languages**<br/>
 Catalan · Spanish · English (First Certificate)
@@ -62,7 +51,7 @@ Catalan · Spanish · English (First Certificate)
 <table width="100%">
 <tr>
 <th colspan="2" align="left">
-<img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Education
+<img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23D0A04A" height="20" align="top" alt=""> &nbsp;Education
 </th>
 </tr>
 <tr>
@@ -94,7 +83,7 @@ Catalan · Spanish · English (First Certificate)
 <table width="100%">
 <tr>
 <th colspan="2" align="left">
-<img src="https://api.iconify.design/lucide:wrench.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Skills and technologies
+<img src="https://api.iconify.design/lucide:wrench.svg?color=%23D0A04A" height="20" align="top" alt=""> &nbsp;Skills and technologies
 </th>
 </tr>
 <tr>
@@ -112,7 +101,7 @@ Catalan · Spanish · English (First Certificate)
 
 **Networking and remote access**
 
-![SSH](https://img.shields.io/badge/SSH-2c5364?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-343a40?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 </td>
 </tr>
@@ -159,7 +148,7 @@ Catalan · Spanish · English (First Certificate)
 <table width="100%">
 <tr>
 <th align="left">
-<img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Projects and internships
+<img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%23D0A04A" height="20" align="top" alt=""> &nbsp;Projects and internships
 </th>
 </tr>
 <tr>
@@ -172,7 +161,7 @@ Catalan · Spanish · English (First Certificate)
 I haven't done a company internship yet, but I'm starting to document what I learn.<br/>
 My systems, networking and security projects will appear here.
 
-![Status](https://img.shields.io/badge/First%20project-in%20progress-2DD4BF?style=flat-square)
+![Status](https://img.shields.io/badge/First%20project-in%20progress-D0A04A?style=flat-square)
 
 <br/>
 
@@ -186,7 +175,7 @@ My systems, networking and security projects will appear here.
 <table width="100%">
 <tr>
 <th align="left">
-<img src="https://api.iconify.design/lucide:compass.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Professional goals
+<img src="https://api.iconify.design/lucide:compass.svg?color=%23D0A04A" height="20" align="top" alt=""> &nbsp;Professional goals
 </th>
 </tr>
 <tr>
@@ -194,10 +183,10 @@ My systems, networking and security projects will appear here.
 
 | Step | Goal | Status |
 |---|---|---|
-| 1 | Finish the Intermediate Vocational Degree in IT Systems and Networks (SMX) | ![](https://img.shields.io/badge/-In%20progress-2DD4BF?style=flat-square) |
-| 2 | Continue with the Higher Vocational Degree in Cross-Platform Application Development (DAM) | ![](https://img.shields.io/badge/-Planned-64748b?style=flat-square) |
-| 3 | Specialize in cybersecurity | ![](https://img.shields.io/badge/-Planned-64748b?style=flat-square) |
-| 4 | Work remotely, in an environment where I can keep learning | ![](https://img.shields.io/badge/-Goal-475569?style=flat-square) |
+| 1 | Finish the Intermediate Vocational Degree in IT Systems and Networks (SMX) | ![](https://img.shields.io/badge/-In%20progress-D0A04A?style=flat-square) |
+| 2 | Continue with the Higher Vocational Degree in Cross-Platform Application Development (DAM) | ![](https://img.shields.io/badge/-Planned-737373?style=flat-square) |
+| 3 | Specialize in cybersecurity | ![](https://img.shields.io/badge/-Planned-737373?style=flat-square) |
+| 4 | Work remotely, in an environment where I can keep learning | ![](https://img.shields.io/badge/-Goal-525252?style=flat-square) |
 
 </td>
 </tr>
@@ -209,7 +198,7 @@ My systems, networking and security projects will appear here.
 <table width="100%">
 <tr>
 <th align="left">
-<img src="https://api.iconify.design/lucide:mail.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Contact
+<img src="https://api.iconify.design/lucide:mail.svg?color=%23D0A04A" height="20" align="top" alt=""> &nbsp;Contact
 </th>
 </tr>
 <tr>
@@ -232,6 +221,6 @@ My systems, networking and security projects will appear here.
 
 <sub><code>// thanks for stopping by · always learning something new</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:343a40,50:262b30,100:17191c&height=110&section=footer" alt="Footer" />
 
 </div>
