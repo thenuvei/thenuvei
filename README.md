@@ -133,18 +133,6 @@ Aquí aniran apareixent els meus **projectes de sistemes, xarxes i seguretat**.
 
 <br/>
 
-## 🎯 Interessos i objectius
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Fora de la pantalla
-- 🏃 Córrer
-- 🏋️ Gimnàs
-- 🏀 Bàsquet
-- 🎧 Música de tots els gèneres
-- 🎮 Videojocs
 
 </td>
 <td width="50%" valign="top">
