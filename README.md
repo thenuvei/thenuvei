@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17191c,50:262b30,100:343a40&height=220&section=header&text=Sergi%20Novell%20Valls&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18" alt="Header" />
+<a href="#about-me"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:17191c,50:262b30,100:343a40&height=220&section=header&text=Sergi%20Novell%20Valls&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18" alt="Header" /></a>
 
 <br/><br/>
 
