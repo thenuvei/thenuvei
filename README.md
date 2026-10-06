@@ -1,39 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sergi%20Novell%20Valls&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Sistemes%20%C2%B7%20Xarxes%20%C2%B7%20Ciberseguretat&descAlignY=60&descSize=18" alt="Capçalera" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sergi%20Novell%20Valls&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18" alt="Header" />
 
 <a href="https://github.com/thenuvei">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Estudiant+de+2n+de+SMX+a+l'Escola+Pia+Mataró;Em+formo+en+administració+de+sistemes+i+xarxes;Orientat+a+la+ciberseguretat;Següent+pas:+DAM+i+feina+en+remot" alt="Presentació animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Second-year+IT+Systems+and+Networks+student;Training+in+systems+and+network+administration;Focused+on+cybersecurity;Next+step:+DAM+and+remote+work" alt="Animated introduction" />
 </a>
 
 <br/><br/>
 
-![Ubicació](https://img.shields.io/badge/Teià%2C%20Catalunya-0f2027?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF)
-![Estudis](https://img.shields.io/badge/2n%20SMX-203a43?style=for-the-badge&logo=academia&logoColor=2DD4BF)
-![Focus](https://img.shields.io/badge/Focus-Ciberseguretat-2c5364?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-</div>
+![Location](https://img.shields.io/badge/Teià%2C%20Catalonia-0f2027?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF)
+![Studies](https://img.shields.io/badge/2nd%20year%20SMX-203a43?style=for-the-badge&logo=academia&logoColor=2DD4BF)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-2c5364?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 <br/>
 
-## 👤 Qui sóc
+[![About me](https://img.shields.io/badge/About%20me-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#about-me)
+[![Education](https://img.shields.io/badge/Education-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#education)
+[![Skills](https://img.shields.io/badge/Skills-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#skills)
+[![Projects](https://img.shields.io/badge/Projects-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#projects)
+[![Goals](https://img.shields.io/badge/Goals-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#goals)
+[![Contact](https://img.shields.io/badge/Contact-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#contact)
 
-<table>
+</div>
+
+<a name="about-me"></a>
+<table width="100%">
+<tr>
+<th colspan="2" align="left">
+<img src="https://api.iconify.design/lucide:user.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;About me
+</th>
+</tr>
 <tr>
 <td width="60%" valign="top">
 
-Tinc 17 anys i sóc de Teià. Sóc una persona **treballadora, curiosa i extrovertida**.
+I'm 17 years old and I'm from Teià. I'm a **hard-working, curious and outgoing** person.
 
-Vaig triar SMX perquè volia conèixer la informàtica **des de dins**, no només la part que es veu a la pantalla: com funcionen els sistemes, com es comuniquen entre ells i com es protegeixen.
+I chose SMX because I wanted to understand IT **from the inside**, not just the part you see on the screen: how systems work, how they communicate with each other and how they are protected.
 
 </td>
 <td width="40%" valign="top">
 
-**📍** Teià, Catalunya
+**Location**<br/>
+Teià, Catalonia
 
-**🎓** CFGM SMX · 2n curs
-**🏫** Escola Pia Santa Anna, Mataró
-**🗣️** Català · Castellà · Anglès (First Certificate)
+**Studies**<br/>
+CFGM SMX, 2nd year
+
+**School**<br/>
+Escola Pia Santa Anna, Mataró
+
+**Languages**<br/>
+Catalan · Spanish · English (First Certificate)
 
 </td>
 </tr>
@@ -41,40 +58,50 @@ Vaig triar SMX perquè volia conèixer la informàtica **des de dins**, no nomé
 
 <br/>
 
-## 🎓 Formació i aprenentatge
-
-<table>
+<a name="education"></a>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<th colspan="2" align="left">
+<img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Education
+</th>
+</tr>
+<tr>
+<td width="60%" valign="top">
 
-### Estudis
-- **CFGM Sistemes Microinformàtics i Xarxes**, 2n curs (actualment)
-- **ESO**, graduat el 2024
-- **First Certificate** d'anglès, 2020
+| Year | Qualification | Status |
+|---|---|---|
+| 2024 – present | Intermediate Vocational Degree in IT Systems and Networks (SMX) · Escola Pia Santa Anna | In progress (2nd year) |
+| 2024 | Compulsory Secondary Education (ESO) | Completed |
+| 2020 | First Certificate (English) | Obtained |
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### Ara mateix treballo en
-- 🔒 Seguretat informàtica
-- 🛡️ Ciberseguretat
-- 💻 Programació (optativa)
-- 🐍 Iniciació a Python
+**What I'm working on right now**
+
+- IT security
+- Cybersecurity
+- Programming (elective)
+- Introduction to Python
 
 </td>
 </tr>
-
 </table>
 
 <br/>
 
-## 🛠️ Competències i tecnologies
-
-<table>
+<a name="skills"></a>
+<table width="100%">
+<tr>
+<th colspan="2" align="left">
+<img src="https://api.iconify.design/lucide:wrench.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Skills and technologies
+</th>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐧 Sistemes
+**Systems**
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
@@ -83,65 +110,44 @@ Vaig triar SMX perquè volia conèixer la informàtica **des de dins**, no nomé
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Xarxes i accés remot
+**Networking and remote access**
+
 ![SSH](https://img.shields.io/badge/SSH-2c5364?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Màquines virtuals](https://img.shields.io/badge/Laboratori%20virtual-203a43?style=for-the-badge&logo=virtualbox&logoColor=2DD4BF)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Programació i web
+**Programming and web**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 Eines
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </td>
 </tr>
-</table>
-
-> **Nivell:** treballo amb màquines virtuals d'Ubuntu i Windows, Bash i connexions SSH entre equips. Estic iniciant-me en Python i tinc una base de HTML i Git/GitHub.
-
-<br/>
-
-## 🚀 Projectes i pràctiques
-
-<table>
 <tr>
-<td align="center" width="100%">
+<td colspan="2" valign="top">
 
-### 📂 Portafoli en construcció
+**Level by area**
 
-Encara no he fet pràctiques en empresa, però estic començant a documentar el que aprenc.
-Aquí aniran apareixent els meus **projectes de sistemes, xarxes i seguretat**.
-
-![Estat](https://img.shields.io/badge/Primer%20projecte-en%20preparació-2DD4BF?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-
-<br/>
-
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 Cap on vaig
-1. Acabar **SMX**
-2. Continuar amb **DAM**
-3. Especialitzar-me en **ciberseguretat**
-4. Treballar **en remot**, aprenent cada dia
+| Area | Experience | Level | |
+|---|---|---|---|
+| Virtual machines | Ubuntu Linux and Windows on VirtualBox | `▰▰▰▱▱` | Hands-on |
+| Command line | Bash | `▰▰▰▱▱` | Hands-on |
+| Remote access | SSH connections between machines | `▰▰▰▱▱` | Hands-on |
+| Version control | Git and GitHub | `▰▰▱▱▱` | Basic |
+| Web | HTML | `▰▰▱▱▱` | Basic |
+| Programming | Python | `▰▱▱▱▱` | Beginner |
 
 </td>
 </tr>
@@ -149,27 +155,83 @@ Aquí aniran apareixent els meus **projectes de sistemes, xarxes i seguretat**.
 
 <br/>
 
-## 📊 Activitat a GitHub
-
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thenuvei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=2DD4BF&icon_color=2DD4BF&text_color=cbd5e1" alt="Estadístiques" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenuvei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=2DD4BF&text_color=cbd5e1" alt="Llenguatges" />
-
-</div>
+<a name="projects"></a>
+<table width="100%">
+<tr>
+<th align="left">
+<img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Projects and internships
+</th>
+</tr>
+<tr>
+<td align="center" valign="top">
 
 <br/>
 
-## 📫 Contacte
+**Portfolio under construction**
 
-<div align="center">
+I haven't done a company internship yet, but I'm starting to document what I learn.<br/>
+My systems, networking and security projects will appear here.
 
-[![Correu](https://img.shields.io/badge/Correu-sergiinovell%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiinovell@gmail.com)
+![Status](https://img.shields.io/badge/First%20project-in%20progress-2DD4BF?style=flat-square)
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a name="goals"></a>
+<table width="100%">
+<tr>
+<th align="left">
+<img src="https://api.iconify.design/lucide:compass.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Professional goals
+</th>
+</tr>
+<tr>
+<td valign="top">
+
+| Step | Goal | Status |
+|---|---|---|
+| 1 | Finish the Intermediate Vocational Degree in IT Systems and Networks (SMX) | ![](https://img.shields.io/badge/-In%20progress-2DD4BF?style=flat-square) |
+| 2 | Continue with the Higher Vocational Degree in Cross-Platform Application Development (DAM) | ![](https://img.shields.io/badge/-Planned-64748b?style=flat-square) |
+| 3 | Specialize in cybersecurity | ![](https://img.shields.io/badge/-Planned-64748b?style=flat-square) |
+| 4 | Work remotely, in an environment where I can keep learning | ![](https://img.shields.io/badge/-Goal-475569?style=flat-square) |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a name="contact"></a>
+<table width="100%">
+<tr>
+<th align="left">
+<img src="https://api.iconify.design/lucide:mail.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Contact
+</th>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-alu.sergi.novell%40mataro.epiaedu.cat-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alu.sergi.novell@mataro.epiaedu.cat)
 [![GitHub](https://img.shields.io/badge/GitHub-thenuvei-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thenuvei)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="Peu" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+<sub><code>// thanks for stopping by · always learning something new</code></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="Footer" />
 
 </div>
