@@ -169,30 +169,6 @@ My systems, networking and security projects will appear here.
 </tr>
 </table>
 
-<br/>
-
-<a name="goals"></a>
-<table width="100%">
-<tr>
-<th align="left">
-<img src="https://api.iconify.design/lucide:compass.svg?color=%23D0A04A" height="20" align="top" alt=""> &nbsp;Professional goals
-</th>
-</tr>
-<tr>
-<td valign="top">
-
-| Step | Goal | Status |
-|---|---|---|
-| 1 | Finish the Intermediate Vocational Degree in IT Systems and Networks (SMX) | ![](https://img.shields.io/badge/-In%20progress-D0A04A?style=flat-square) |
-| 2 | Continue with the Higher Vocational Degree in Cross-Platform Application Development (DAM) | ![](https://img.shields.io/badge/-Planned-737373?style=flat-square) |
-| 3 | Specialize in cybersecurity | ![](https://img.shields.io/badge/-Planned-737373?style=flat-square) |
-| 4 | Work remotely, in an environment where I can keep learning | ![](https://img.shields.io/badge/-Goal-525252?style=flat-square) |
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <a name="contact"></a>
 <table width="100%">
