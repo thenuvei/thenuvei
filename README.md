@@ -28,7 +28,7 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm 17 years old. I'm a **hard-working, curious and outgoing** person.
+I'm 18 years old. I'm a **hard-working, curious and outgoing** person.
 
 I chose SMX because I wanted to understand IT **from the inside**, not just the part you see on the screen: how systems work, how they communicate with each other and how they are protected.
 
