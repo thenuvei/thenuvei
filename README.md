@@ -1,244 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sergi%20Novell%20Valls&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=60&descSize=18" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=200&section=header&text=Sergi%20Novell%20Valls&fontSize=44&fontColor=D4AF37&fontAlignY=42&desc=Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=65&descSize=16&descColor=ffffff" alt="Header" />
 
 <a href="https://github.com/thenuvei">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=2DD4BF&center=true&vCenter=true&width=640&lines=Second-year+IT+Systems+and+Networks+student;Training+in+systems+and+network+administration;Focused+on+cybersecurity;Next+step:+DAM+and+remote+work" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=640&lines=Second-year+IT+Systems+and+Networks+student;Focused+on+cybersecurity;Next+step:+DAM+and+remote+work" alt="Introduction" />
 </a>
 
 <br/><br/>
 
-![Location](https://img.shields.io/badge/Teià%2C%20Catalonia-0f2027?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF)
-![Studies](https://img.shields.io/badge/2nd%20year%20SMX-203a43?style=for-the-badge&logo=academia&logoColor=2DD4BF)
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity-2c5364?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-<br/>
-
-[![About me](https://img.shields.io/badge/About%20me-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#about-me)
-[![Education](https://img.shields.io/badge/Education-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#education)
-[![Skills](https://img.shields.io/badge/Skills-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#skills)
-[![Projects](https://img.shields.io/badge/Projects-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#projects)
-[![Goals](https://img.shields.io/badge/Goals-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#goals)
-[![Contact](https://img.shields.io/badge/Contact-0f2027?style=flat-square&labelColor=0f2027&color=2DD4BF)](https://github.com/thenuvei/thenuvei#contact)
+[About](https://github.com/thenuvei/thenuvei#about) &nbsp;·&nbsp;
+[Education](https://github.com/thenuvei/thenuvei#education) &nbsp;·&nbsp;
+[Skills](https://github.com/thenuvei/thenuvei#skills) &nbsp;·&nbsp;
+[Projects](https://github.com/thenuvei/thenuvei#projects) &nbsp;·&nbsp;
+[Goals](https://github.com/thenuvei/thenuvei#goals) &nbsp;·&nbsp;
+[Contact](https://github.com/thenuvei/thenuvei#contact)
 
 </div>
 
-<a name="about-me"></a>
-<table width="100%">
-<tr>
-<th colspan="2" align="left">
-<img src="https://api.iconify.design/lucide:user.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;About me
-</th>
-</tr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=1" width="100%" alt="" />
 
-<tr>
-<td width="60%" valign="top">
+<a name="about"></a>
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23D4AF37" height="22" align="top" alt=""> &nbsp;About
 
-I'm 17 years old and I'm from Teià. I'm a **hard-working, curious and outgoing** person.
+I'm 17 and from Teià, Catalonia. I'm a **hard-working, curious and outgoing** person.
 
-I chose SMX because I wanted to understand IT **from the inside**, not just the part you see on the screen: how systems work, how they communicate with each other and how they are protected.
+I chose SMX because I wanted to understand IT **from the inside**, not just the part you see on the screen: how systems work, how they communicate and how they are protected.
 
-</td>
-<td width="40%" valign="top">
+**Location** &nbsp; Teià, Catalonia<br/>
+**School** &nbsp; Escola Pia Santa Anna, Mataró<br/>
+**Languages** &nbsp; Catalan · Spanish · English (First Certificate)
 
-**Location**<br/>
-Teià, Catalonia
-
-**Studies**<br/>
-CFGM SMX, 2nd year
-
-**School**<br/>
-Escola Pia Santa Anna, Mataró
-
-**Languages**<br/>
-Catalan · Spanish · English (First Certificate)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
 <a name="education"></a>
-<table width="100%">
-<tr>
-<th colspan="2" align="left">
-
-<img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Education
-</th>
-</tr>
-<tr>
-<td width="60%" valign="top">
+## <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23D4AF37" height="22" align="top" alt=""> &nbsp;Education
 
 | Year | Qualification | Status |
 |---|---|---|
-| 2024 – present | Intermediate Vocational Degree in IT Systems and Networks (SMX) · Escola Pia Santa Anna | In progress (2nd year) |
+| 2024 – present | Intermediate Vocational Degree in IT Systems and Networks (SMX) | In progress (2nd year) |
 | 2024 | Compulsory Secondary Education (ESO) | Completed |
 | 2020 | First Certificate (English) | Obtained |
 
-</td>
-<td width="40%" valign="top">
-
-**What I'm working on right now**
-
-- IT security
-- Cybersecurity
-- Programming (elective)
-- Introduction to Python
-
-</td>
-</tr>
-</table>
+**Currently working on:** IT security · Cybersecurity · Programming (elective) · Introduction to Python
 
 <br/>
 
 <a name="skills"></a>
-<table width="100%">
-<tr>
-<th colspan="2" align="left">
+## <img src="https://api.iconify.design/lucide:terminal.svg?color=%23D4AF37" height="22" align="top" alt=""> &nbsp;Skills
 
-<img src="https://api.iconify.design/lucide:wrench.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Skills and technologies
-</th>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=D4AF37)
+![Windows](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=D4AF37)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat-square&logo=virtualbox&logoColor=D4AF37)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=D4AF37)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=gnometerminal&logoColor=D4AF37)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=D4AF37)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=D4AF37)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=D4AF37)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=D4AF37)
 
-**Systems**
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**Networking and remote access**
-
-![SSH](https://img.shields.io/badge/SSH-2c5364?style=for-the-badge&logo=gnometerminal&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Programming and web**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**Level by area**
+<br/>
 
 | Area | Experience | Level | |
+
 |---|---|---|---|
-| Virtual machines | Ubuntu Linux and Windows on VirtualBox | `▰▰▰▱▱` | Hands-on |
+| Virtual machines | Ubuntu and Windows on VirtualBox | `▰▰▰▱▱` | Hands-on |
 | Command line | Bash | `▰▰▰▱▱` | Hands-on |
-| Remote access | SSH connections between machines | `▰▰▰▱▱` | Hands-on |
+| Remote access | SSH between machines | `▰▰▰▱▱` | Hands-on |
 | Version control | Git and GitHub | `▰▰▱▱▱` | Basic |
 | Web | HTML | `▰▰▱▱▱` | Basic |
 | Programming | Python | `▰▱▱▱▱` | Beginner |
 
-</td>
-</tr>
-</table>
-
 <br/>
 
 <a name="projects"></a>
-<table width="100%">
-<tr>
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%23D4AF37" height="22" align="top" alt=""> &nbsp;Projects
 
-<th align="left">
-<img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Projects and internships
-</th>
-</tr>
-<tr>
-<td align="center" valign="top">
+I haven't done a company internship yet, but I'm starting to document what I learn. My systems, networking and security projects will appear here.
 
-<br/>
-
-**Portfolio under construction**
-
-I haven't done a company internship yet, but I'm starting to document what I learn.<br/>
-My systems, networking and security projects will appear here.
-
-![Status](https://img.shields.io/badge/First%20project-in%20progress-2DD4BF?style=flat-square)
-
-<br/>
-
-</td>
-</tr>
-</table>
+![Status](https://img.shields.io/badge/First%20project-in%20progress-000000?style=flat-square&labelColor=000000&color=D4AF37)
 
 <br/>
 
 <a name="goals"></a>
-<table width="100%">
-<tr>
-<th align="left">
-<img src="https://api.iconify.design/lucide:compass.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Professional goals
-</th>
-</tr>
-<tr>
+## <img src="https://api.iconify.design/lucide:target.svg?color=%23D4AF37" height="22" align="top" alt=""> &nbsp;Goals
 
-<td valign="top">
-
-| Step | Goal | Status |
+| | Goal | Status |
 |---|---|---|
-| 1 | Finish the Intermediate Vocational Degree in IT Systems and Networks (SMX) | ![](https://img.shields.io/badge/-In%20progress-2DD4BF?style=flat-square) |
-| 2 | Continue with the Higher Vocational Degree in Cross-Platform Application Development (DAM) | ![](https://img.shields.io/badge/-Planned-64748b?style=flat-square) |
-| 3 | Specialize in cybersecurity | ![](https://img.shields.io/badge/-Planned-64748b?style=flat-square) |
-| 4 | Work remotely, in an environment where I can keep learning | ![](https://img.shields.io/badge/-Goal-475569?style=flat-square) |
-
-</td>
-</tr>
-</table>
+| 01 | Finish the Intermediate Vocational Degree in IT Systems and Networks | In progress |
+| 02 | Continue with the Higher Vocational Degree in Cross-Platform Application Development (DAM) | Planned |
+| 03 | Specialize in cybersecurity | Planned |
+| 04 | Work remotely, in an environment where I can keep learning | Goal |
 
 <br/>
 
 <a name="contact"></a>
-<table width="100%">
-<tr>
-<th align="left">
-<img src="https://api.iconify.design/lucide:mail.svg?color=%232DD4BF" height="20" align="top" alt=""> &nbsp;Contact
-</th>
-</tr>
-<tr>
-<td align="center" valign="top">
+
+## <img src="https://api.iconify.design/lucide:mail.svg?color=%23D4AF37" height="22" align="top" alt=""> &nbsp;Contact
+
+[![Email](https://img.shields.io/badge/Email-alu.sergi.novell%40mataro.epiaedu.cat-000000?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:alu.sergi.novell@mataro.epiaedu.cat)
+[![GitHub](https://img.shields.io/badge/GitHub-thenuvei-000000?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/thenuvei)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-alu.sergi.novell%40mataro.epiaedu.cat-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alu.sergi.novell@mataro.epiaedu.cat)
-[![GitHub](https://img.shields.io/badge/GitHub-thenuvei-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thenuvei)
-
-<br/>
-
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=1" width="100%" alt="" />
 
 <div align="center">
-
-<br/>
-
-<sub><code>// thanks for stopping by · always learning something new</code></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="Footer" />
-
+<sub>Always learning something new.</sub>
 </div>
