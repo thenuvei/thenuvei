@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=200&section=header&text=Sergi%20Novell%20Valls&fontSize=44&fontColor=D4AF37&fontAlignY=42&desc=Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=65&descSize=16&descColor=ffffff" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:141414&height=210&section=header&text=SERGI%20NOVELL%20VALLS&fontSize=40&fontColor=D4AF37&fontAlignY=40&desc=IT%20Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=64&descSize=16&descColor=ffffff" alt="Header" />
 
-<a href="https://github.com/thenuvei">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=640&lines=Second-year+IT+Systems+and+Networks+student;Focused+on+cybersecurity;Next+step:+DAM+and+remote+work" alt="Introduction" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2" width="100%" alt="" />
 
-<br/><br/>
+<br/>
+
+![Studies](https://img.shields.io/badge/STUDIES-2nd%20year%20SMX-000000?style=flat-square&labelColor=D4AF37&color=000000)
+![Focus](https://img.shields.io/badge/FOCUS-Cybersecurity-000000?style=flat-square&labelColor=D4AF37&color=000000)
+![Location](https://img.shields.io/badge/LOCATION-Teià%2C%20Catalonia-000000?style=flat-square&labelColor=D4AF37&color=000000)
+![Next](https://img.shields.io/badge/NEXT-DAM-000000?style=flat-square&labelColor=D4AF37&color=000000)
+![English](https://img.shields.io/badge/ENGLISH-First%20Certificate-000000?style=flat-square&labelColor=D4AF37&color=000000)
+
+<br/>
 
 [About](https://github.com/thenuvei/thenuvei#about) &nbsp;·&nbsp;
 [Education](https://github.com/thenuvei/thenuvei#education) &nbsp;·&nbsp;
@@ -17,7 +23,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=1" width="100%" alt="" />
+<br/>
 
 <a name="about"></a>
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%23D4AF37" height="22" align="top" alt=""> &nbsp;About
@@ -29,7 +35,6 @@ I chose SMX because I wanted to understand IT **from the inside**, not just the 
 **Location** &nbsp; Teià, Catalonia<br/>
 **School** &nbsp; Escola Pia Santa Anna, Mataró<br/>
 **Languages** &nbsp; Catalan · Spanish · English (First Certificate)
-
 
 <br/>
 
@@ -49,28 +54,23 @@ I chose SMX because I wanted to understand IT **from the inside**, not just the 
 <a name="skills"></a>
 ## <img src="https://api.iconify.design/lucide:terminal.svg?color=%23D4AF37" height="22" align="top" alt=""> &nbsp;Skills
 
+**Systems**<br/>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=D4AF37)
 ![Windows](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=D4AF37)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat-square&logo=virtualbox&logoColor=D4AF37)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=D4AF37)
+
+**Networking**<br/>
 ![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=gnometerminal&logoColor=D4AF37)
+
+**Development**<br/>
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=D4AF37)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=D4AF37)
+
+**Tools**<br/>
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=D4AF37)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=D4AF37)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=D4AF37)
-
-<br/>
-
-| Area | Experience | Level | |
-
-|---|---|---|---|
-| Virtual machines | Ubuntu and Windows on VirtualBox | `▰▰▰▱▱` | Hands-on |
-| Command line | Bash | `▰▰▰▱▱` | Hands-on |
-| Remote access | SSH between machines | `▰▰▰▱▱` | Hands-on |
-| Version control | Git and GitHub | `▰▰▱▱▱` | Basic |
-| Web | HTML | `▰▰▱▱▱` | Basic |
-| Programming | Python | `▰▱▱▱▱` | Beginner |
 
 <br/>
 
@@ -79,7 +79,7 @@ I chose SMX because I wanted to understand IT **from the inside**, not just the 
 
 I haven't done a company internship yet, but I'm starting to document what I learn. My systems, networking and security projects will appear here.
 
-![Status](https://img.shields.io/badge/First%20project-in%20progress-000000?style=flat-square&labelColor=000000&color=D4AF37)
+![Status](https://img.shields.io/badge/FIRST%20PROJECT-in%20progress-000000?style=flat-square&labelColor=D4AF37&color=000000)
 
 <br/>
 
@@ -96,16 +96,15 @@ I haven't done a company internship yet, but I'm starting to document what I lea
 <br/>
 
 <a name="contact"></a>
-
 ## <img src="https://api.iconify.design/lucide:mail.svg?color=%23D4AF37" height="22" align="top" alt=""> &nbsp;Contact
 
-[![Email](https://img.shields.io/badge/Email-alu.sergi.novell%40mataro.epiaedu.cat-000000?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:alu.sergi.novell@mataro.epiaedu.cat)
-[![GitHub](https://img.shields.io/badge/GitHub-thenuvei-000000?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/thenuvei)
+[![Email](https://img.shields.io/badge/EMAIL-alu.sergi.novell%40mataro.epiaedu.cat-000000?style=flat-square&labelColor=D4AF37&color=000000)](mailto:alu.sergi.novell@mataro.epiaedu.cat)
+[![GitHub](https://img.shields.io/badge/GITHUB-thenuvei-000000?style=flat-square&labelColor=D4AF37&color=000000)](https://github.com/thenuvei)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=1" width="100%" alt="" />
-
 <div align="center">
-<sub>Always learning something new.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2" width="100%" alt="" />
+
 </div>
