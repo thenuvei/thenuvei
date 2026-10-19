@@ -1,101 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2128&height=180&section=header&text=SERGI%20NOVELL%20VALLS&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=IT%20Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=64&descSize=15&descColor=8b949e" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=160&section=header&text=Sergi%20Novell%20Valls&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=IT%20Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=66&descSize=14&descColor=8b949e" alt="Sergi Novell Valls" />
+
+<br/>
+
+![Student](https://img.shields.io/badge/-SMX%20student-161b22?style=flat-square&labelColor=161b22&color=161b22)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-161b22?style=flat-square&logo=hackthebox&logoColor=B8962E)
+![Linux](https://img.shields.io/badge/-Linux-161b22?style=flat-square&logo=linux&logoColor=B8962E)
+![Networks](https://img.shields.io/badge/-Networks-161b22?style=flat-square&logo=cisco&logoColor=B8962E)
+![Python](https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python&logoColor=B8962E)
 
 </div>
 
-## 🧑‍💻 About Me
+## <img src="icon-user.svg" width="22" height="22" align="absmiddle" alt=""> About me
 
-```js
-const sergi = {
-  role: "IT Systems and Networks student (SMX)",
-  age: 18,
+I'm Sergi, 18, a second-year IT Systems and Networks (SMX) student. I'm hard-working, curious and outgoing. I chose this field because I wanted to understand IT from the inside, not just the part you see on the screen: how systems work, how they talk to each other and how they are protected.
 
-  focus: ["Cybersecurity", "System administration", "Networking"],
-
-  learning: {
-    now: ["Python", "Bash scripting", "IT security"],
-    handsOn: ["Ubuntu Linux", "Windows", "VirtualBox", "SSH"],
-  },
-
-  languages: ["Catalan", "Spanish", "English (First Certificate)"],
-
-  personality: ["Hard-working", "Curious", "Outgoing"],
-
-  currentlyBuilding: "A portfolio of systems, networking and security projects",
-};
-```
-
-> *"Understand how a system works first. Then learn how to protect it."*
+I speak Catalan, Spanish and English (First Certificate).
 
 <br/>
 
+## <img src="icon-book.svg" width="22" height="22" align="absmiddle" alt=""> What I'm studying and what I want to learn
 
-## 🔗 Connect With Me
+I'm in the second year of the SMX vocational degree. This year I'm focused on IT security, cybersecurity and a programming elective, and I'm taking my first steps with Python.
 
-<div align="center">
+What I want to learn next:
 
-[![Email](https://img.shields.io/badge/Email-alu.sergi.novell%40mataro.epiaedu.cat-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alu.sergi.novell@mataro.epiaedu.cat)
-[![GitHub](https://img.shields.io/badge/GitHub-thenuvei-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thenuvei)
-
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,py,html,git,github,vscode&perline=9" alt="Tech stack" />
-
-<br/><br/>
-
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-2b2b2b?style=flat-square&logo=gnometerminal&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
-
+- Cybersecurity in depth: how systems get attacked and how to harden them.
+- Programming, to automate tasks and build my own tools.
+- Systems and network administration in more realistic environments.
 
 <br/>
 
-## 📊 GitHub Analytics
+## <img src="icon-tools.svg" width="22" height="22" align="absmiddle" alt=""> Skills and technologies
 
-<div align="center">
+| Area | What I've worked with | Level |
+|:--|:--|:--|
+| Operating systems | Ubuntu Linux, Windows | Hands-on, in virtual machines |
+| Virtualization | VirtualBox | Hands-on |
+| Command line | Bash | Hands-on |
+| Remote access | SSH between machines | Hands-on |
+| Version control | Git, GitHub | Basic |
+| Web | HTML | Basic |
+| Programming | Python | Beginner |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thenuvei&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenuvei&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thenuvei&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thenuvei&theme=github-dark&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=ubuntu,windows,bash,py,html,git,github,vscode&perline=8" alt="Ubuntu, Windows, Bash, Python, HTML, Git, GitHub, VS Code" />
 
 <br/>
 
-## 🏆 GitHub Trophies
+## <img src="icon-folder.svg" width="22" height="22" align="absmiddle" alt=""> Projects and internships
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thenuvei&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
-
-</div>
+I haven't done a company internship yet, and I'm just starting to build my portfolio. I'll publish here the practical work I do with virtual machines, SSH, networking and security, each one in its own repository with a short write-up.
 
 <br/>
 
-<div align="center">
+## <img src="icon-heart.svg" width="22" height="22" align="absmiddle" alt=""> Interests
 
-<sub>Always learning something new.</sub>
-</div>
+Outside of IT I do a lot of sport: running, the gym and basketball. I also play video games and listen to all kinds of music.
+
+<br/>
+
+## <img src="icon-target.svg" width="22" height="22" align="absmiddle" alt=""> Professional goals
+
+- Specialize in cybersecurity.
+- Keep growing as a developer and systems administrator.
+- Work remotely, in a team where I can keep learning.
+
+<br/>
+
+## <img src="icon-chart.svg" width="22" height="22" align="absmiddle" alt=""> GitHub
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=thenuvei&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=B8962E&title_color=B8962E" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenuvei&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=B8962E" alt="Top languages" />
+
+<br/>
+
+## <img src="icon-mail.svg" width="22" height="22" align="absmiddle" alt=""> Contact
+
+Email: [alu.sergi.novell@mataro.epiaedu.cat](mailto:alu.sergi.novell@mataro.epiaedu.cat)
+GitHub: [github.com/thenuvei](https://github.com/thenuvei)
