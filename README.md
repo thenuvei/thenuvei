@@ -1,84 +1,101 @@
 <div align="center">
 
-# Sergi Novell Valls
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2128&height=180&section=header&text=SERGI%20NOVELL%20VALLS&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=IT%20Systems%20%C2%B7%20Networks%20%C2%B7%20Cybersecurity&descAlignY=64&descSize=15&descColor=8b949e" alt="Banner" />
 
-**IT Systems · Networks · Cybersecurity**
+</div>
 
-Second-year SMX student
+## 🧑‍💻 About Me
+
+```js
+const sergi = {
+  role: "IT Systems and Networks student (SMX)",
+  age: 18,
+
+  focus: ["Cybersecurity", "System administration", "Networking"],
+
+  learning: {
+    now: ["Python", "Bash scripting", "IT security"],
+    handsOn: ["Ubuntu Linux", "Windows", "VirtualBox", "SSH"],
+  },
+
+  languages: ["Catalan", "Spanish", "English (First Certificate)"],
+
+  personality: ["Hard-working", "Curious", "Outgoing"],
+
+  currentlyBuilding: "A portfolio of systems, networking and security projects",
+};
+```
+
+> *"Understand how a system works first. Then learn how to protect it."*
 
 <br/>
 
-[About](https://github.com/thenuvei/thenuvei#about) · [Education](https://github.com/thenuvei/thenuvei#education) · [Skills](https://github.com/thenuvei/thenuvei#skills) · [Projects](https://github.com/thenuvei/thenuvei#projects) · [Contact](https://github.com/thenuvei/thenuvei#contact)
 
-</div>
-
----
-
-<a name="about"></a>
-## About
-
-I'm 18. I'm a hard-working, curious and outgoing person.
-
-I chose SMX because I wanted to understand IT from the inside, not just the part you see on the screen: how systems work, how they communicate and how they are protected. I'm particularly interested in cybersecurity.
-
-| | |
-|---|---|
-| **Languages** | Catalan · Spanish · English (First Certificate) |
-
----
-
-<a name="education"></a>
-## Education
-
-
-| Year | Qualification | Status |
-|---|---|---|
-| 2024 – present | Intermediate Vocational Degree in IT Systems and Networks (SMX) | In progress (2nd year) |
-| 2024 | Compulsory Secondary Education (ESO) | Completed |
-| 2020 | First Certificate (English) | Obtained |
-
-**Currently studying:** IT security, cybersecurity, programming (elective) and an introduction to Python.
-
----
-
-<a name="skills"></a>
-## Skills
-
-| Area | Technologies |
-|---|---|
-| Operating systems | Ubuntu Linux, Windows |
-| Virtualization | VirtualBox |
-| Command line | Bash |
-| Networking | SSH connections between machines |
-| Development | Python (beginner), HTML |
-| Tools | Git, GitHub, VS Code |
+## 🔗 Connect With Me
 
 <div align="center">
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-1c1c1c?style=flat-square&logo=ubuntu&logoColor=A68B5B)
-![Windows](https://img.shields.io/badge/-Windows-1c1c1c?style=flat-square&logo=windows&logoColor=A68B5B)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-1c1c1c?style=flat-square&logo=virtualbox&logoColor=A68B5B)
-![Bash](https://img.shields.io/badge/-Bash-1c1c1c?style=flat-square&logo=gnubash&logoColor=A68B5B)
-![Python](https://img.shields.io/badge/-Python-1c1c1c?style=flat-square&logo=python&logoColor=A68B5B)
-![HTML5](https://img.shields.io/badge/-HTML5-1c1c1c?style=flat-square&logo=html5&logoColor=A68B5B)
-![Git](https://img.shields.io/badge/-Git-1c1c1c?style=flat-square&logo=git&logoColor=A68B5B)
-![GitHub](https://img.shields.io/badge/-GitHub-1c1c1c?style=flat-square&logo=github&logoColor=A68B5B)
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-1c1c1c?style=flat-square&logo=visualstudiocode&logoColor=A68B5B)
+[![Email](https://img.shields.io/badge/Email-alu.sergi.novell%40mataro.epiaedu.cat-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alu.sergi.novell@mataro.epiaedu.cat)
+[![GitHub](https://img.shields.io/badge/GitHub-thenuvei-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thenuvei)
 
 </div>
 
----
+<br/>
 
-<a name="projects"></a>
-## Projects
+## 🛠️ Tech Stack
 
-I haven't done a company internship yet. I'm starting to document what I learn, and my systems, networking and security projects will be published here.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,py,html,git,github,vscode&perline=9" alt="Tech stack" />
 
-<a name="contact"></a>
-## Contact
+<br/><br/>
 
-- Email: [alu.sergi.novell@mataro.epiaedu.cat](mailto:alu.sergi.novell@mataro.epiaedu.cat)
-- GitHub: [github.com/thenuvei](https://github.com/thenuvei)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-2b2b2b?style=flat-square&logo=gnometerminal&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thenuvei&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenuvei&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thenuvei&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thenuvei&theme=github-dark&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thenuvei&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Always learning something new.</sub>
+</div>
