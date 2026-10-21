@@ -52,21 +52,6 @@ What I want to learn next:
 
 I haven't done a company internship yet, and I'm just starting to build my portfolio. I'll publish here the practical work I do with virtual machines, SSH, networking and security, each one in its own repository with a short write-up.
 
-<br/>
-
-## <img src="icon-heart.svg" width="22" height="22" align="absmiddle" alt=""> Interests
-
-Outside of IT I do a lot of sport: running, the gym and basketball. I also play video games and listen to all kinds of music.
-
-<br/>
-
-## <img src="icon-target.svg" width="22" height="22" align="absmiddle" alt=""> Professional goals
-
-- Specialize in cybersecurity.
-- Keep growing as a developer and systems administrator.
-- Work remotely, in a team where I can keep learning.
-
-<br/>
 
 ## <img src="icon-chart.svg" width="22" height="22" align="absmiddle" alt=""> GitHub
 
