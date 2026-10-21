@@ -12,55 +12,109 @@
 
 </div>
 
-## <img src="icon-user.svg" width="22" height="22" align="absmiddle" alt=""> About me
-
-I'm Sergi, 18, a second-year IT Systems and Networks (SMX) student. I'm hard-working, curious and outgoing. I chose this field because I wanted to understand IT from the inside, not just the part you see on the screen: how systems work, how they talk to each other and how they are protected.
-
-I speak Catalan, Spanish and English (First Certificate).
-
 <br/>
 
-## <img src="icon-book.svg" width="22" height="22" align="absmiddle" alt=""> What I'm studying and what I want to learn
+<table width="100%">
+<tr>
+<td width="50%" align="left" valign="middle">
+<img src="img/icon-user.svg" width="22" height="22" align="absmiddle" alt=""> <b>01 · ABOUT ME</b>
+</td>
+<td width="50%" align="left" valign="middle">
+<img src="img/icon-book.svg" width="22" height="22" align="absmiddle" alt=""> <b>02 · WHAT I'M STUDYING</b>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+I'm Sergi, 18, a second-year IT Systems and Networks (SMX) student. I'm hard-working, curious and outgoing. I chose this field to understand IT from the inside: how systems work, how they talk to each other and how they are protected.
+</td>
+<td align="left" valign="top">
+This year I'm focused on IT security, cybersecurity and a programming elective, and I'm taking my first steps with Python. Every topic builds on the previous one: systems first, then networks, then protection.
+</td>
+</tr>
+</table>
 
-I'm in the second year of the SMX vocational degree. This year I'm focused on IT security, cybersecurity and a programming elective, and I'm taking my first steps with Python.
+<table width="100%">
+<tr>
+<td colspan="3" align="left" valign="middle">
+<img src="img/icon-tools.svg" width="22" height="22" align="absmiddle" alt=""> <b>03 · SKILLS AND TECHNOLOGIES</b>
+</td>
+</tr>
+<tr>
+<td width="33%" align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=ubuntu,windows" alt="Ubuntu, Windows" />
+</td>
+<td width="33%" align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=bash,linux" alt="Bash, Linux" />
+</td>
+<td width="33%" align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=py,html,git,github,vscode" alt="Python, HTML, Git, GitHub, VS Code" />
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<b>Systems</b><br/>
+Ubuntu Linux and Windows installed and configured in virtual machines with VirtualBox.
+</td>
+<td align="left" valign="top">
+<b>Networks</b><br/>
+Bash command line and SSH connections between machines, the base of cybersecurity.
+</td>
+<td align="left" valign="top">
+<b>Code and tools</b><br/>
+Python and HTML basics, with Git and GitHub to keep a history of my work.
+</td>
+</tr>
+</table>
 
-What I want to learn next:
+<table width="100%">
+<tr>
+<td width="50%" align="left" valign="middle">
+<img src="img/icon-target.svg" width="22" height="22" align="absmiddle" alt=""> <b>04 · WHERE I'M HEADING</b>
+</td>
+<td width="50%" align="left" valign="middle">
+<img src="img/icon-folder.svg" width="22" height="22" align="absmiddle" alt=""> <b>05 · PROJECTS AND INTERNSHIPS</b>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+Cybersecurity in depth (how systems get attacked and how to harden them), programming to automate tasks and build my own tools, and administration in more realistic environments.
+</td>
+<td align="left" valign="top">
+I haven't done a company internship yet and I'm starting to build my portfolio. I'll publish my practical work on virtual machines, SSH, networking and security, each in its own repository with a short write-up.
+</td>
+</tr>
+</table>
 
-- Cybersecurity in depth: how systems get attacked and how to harden them.
-- Programming, to automate tasks and build my own tools.
-- Systems and network administration in more realistic environments.
-
-<br/>
-
-## <img src="icon-tools.svg" width="22" height="22" align="absmiddle" alt=""> Skills and technologies
-
-| Area | What I've worked with | Level |
-|:--|:--|:--|
-| Operating systems | Ubuntu Linux, Windows | Hands-on, in virtual machines |
-| Virtualization | VirtualBox | Hands-on |
-| Command line | Bash | Hands-on |
-| Remote access | SSH between machines | Hands-on |
-| Version control | Git, GitHub | Basic |
-| Web | HTML | Basic |
-| Programming | Python | Beginner |
-
-<img src="https://skillicons.dev/icons?i=ubuntu,windows,bash,py,html,git,github,vscode&perline=8" alt="Ubuntu, Windows, Bash, Python, HTML, Git, GitHub, VS Code" />
-
-<br/>
-
-## <img src="icon-folder.svg" width="22" height="22" align="absmiddle" alt=""> Projects and internships
-
-I haven't done a company internship yet, and I'm just starting to build my portfolio. I'll publish here the practical work I do with virtual machines, SSH, networking and security, each one in its own repository with a short write-up.
-
-
-## <img src="icon-chart.svg" width="22" height="22" align="absmiddle" alt=""> GitHub
-
+<table width="100%">
+<tr>
+<td align="left" valign="middle">
+<img src="img/icon-chart.svg" width="22" height="22" align="absmiddle" alt=""> <b>06 · GITHUB ACTIVITY</b>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=thenuvei&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=B8962E&title_color=B8962E" alt="GitHub stats" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenuvei&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=B8962E" alt="Top languages" />
+</td>
+</tr>
+</table>
 
-<br/>
-
-## <img src="icon-mail.svg" width="22" height="22" align="absmiddle" alt=""> Contact
-
-Email: [alu.sergi.novell@mataro.epiaedu.cat](mailto:alu.sergi.novell@mataro.epiaedu.cat)
-GitHub: [github.com/thenuvei](https://github.com/thenuvei)
+<table width="100%">
+<tr>
+<td width="50%" align="left" valign="middle">
+<img src="img/icon-heart.svg" width="22" height="22" align="absmiddle" alt=""> <b>07 · LANGUAGES</b>
+</td>
+<td width="50%" align="left" valign="middle">
+<img src="img/icon-mail.svg" width="22" height="22" align="absmiddle" alt=""> <b>08 · CONTACT</b>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+Catalan, Spanish and English (First Certificate).
+</td>
+<td align="left" valign="top">
+<a href="mailto:alu.sergi.novell@mataro.epiaedu.cat"><img src="https://img.shields.io/badge/Email-Send%20a%20message-161b22?style=for-the-badge&logo=gmail&logoColor=B8962E&labelColor=161b22" alt="Email" /></a>
+<a href="https://github.com/thenuvei"><img src="https://img.shields.io/badge/GitHub-thenuvei-161b22?style=for-the-badge&logo=github&logoColor=B8962E&labelColor=161b22" alt="GitHub" /></a>
+</td>
+</tr>
+</table>
